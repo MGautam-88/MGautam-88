@@ -1,5 +1,5 @@
 # 💫 About Me:
-BTech student at IIITDMJ |<br>Full stack Developer | Having a Good hands on MERN stack | Data Structures and Algorithms<br>Learning System Designing
+BTech student at IIITDMJ |<br>Full stack Developer | MERN stack | Data Structures and Algorithms<br>Learning System Designing
 
 
 ## 🌐 Socials:
